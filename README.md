@@ -44,7 +44,7 @@ Customer-Churn-Prediction/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Customer behaviour dashbaord.png,Overview.png)
 
 ---
 
@@ -61,14 +61,6 @@ Customer-Churn-Prediction/
 1. Download the `.pbix` file from the repository
 2. Open in Power BI Desktop
 3. Explore interactive dashboard
-
----
-
-## 🎯 Future Improvements
-
-- Add machine learning model for churn prediction
-- Integrate real-time data
-- Enhance dashboard UI
 
 ---
 
